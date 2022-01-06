@@ -1,0 +1,14 @@
+
+
+.button__home{
+    height: 350px;
+    width: 350px;
+}
+
+.button__rules{
+    background: #2f8ea5;
+}
+
+.button_play{
+    background: #c94e4e;
+}
