@@ -4,3 +4,4 @@ Put your credentials to `.env`.
 
 Run `yarn start` to start application.# sofka-app
 # sofka-app
+# sofka-app
